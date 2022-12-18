@@ -1,0 +1,166 @@
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\mycats.dll.config
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\mycats.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\mycats.pdb
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\csc.exe
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\csc.exe.config
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\csc.rsp
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\csi.exe
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\csi.exe.config
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\csi.rsp
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.AppContext.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Console.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Net.Http.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\vbc.exe
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\vbc.exe.config
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\vbc.rsp
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\Antlr3.Runtime.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\EntityFramework.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\EntityFramework.SqlServer.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\Newtonsoft.Json.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Helpers.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Mvc.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Optimization.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Razor.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.WebPages.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\WebGrease.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\EntityFramework.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\EntityFramework.SqlServer.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Helpers.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Mvc.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Optimization.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.Razor.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.WebPages.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\Newtonsoft.Json.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\Antlr3.Runtime.pdb
+C:\Users\Alfarizi\source\repos\mycats\mycats\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alfarizi\source\repos\mycats\mycats\obj\Debug\mycats.csproj.AssemblyReference.cache
+C:\Users\Alfarizi\source\repos\mycats\mycats\obj\Debug\mycats.csproj.CoreCompileInputs.cache
+C:\Users\Alfarizi\source\repos\mycats\mycats\obj\Debug\mycats.csproj.CopyComplete
+C:\Users\Alfarizi\source\repos\mycats\mycats\obj\Debug\mycats.dll
+C:\Users\Alfarizi\source\repos\mycats\mycats\obj\Debug\mycats.pdb
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\mycats.dll.config
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\mycats.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\mycats.pdb
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\csc.exe
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\csc.exe.config
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\csc.rsp
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\csi.exe
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\csi.exe.config
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\csi.rsp
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.AppContext.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Console.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Net.Http.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\vbc.exe
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\vbc.exe.config
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\vbc.rsp
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\Antlr3.Runtime.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\EntityFramework.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\EntityFramework.SqlServer.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\Newtonsoft.Json.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Helpers.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Mvc.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Optimization.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Razor.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.WebPages.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\WebGrease.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\EntityFramework.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\EntityFramework.SqlServer.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Helpers.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Mvc.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Optimization.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.Razor.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.WebPages.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\Newtonsoft.Json.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\Antlr3.Runtime.pdb
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\obj\Debug\mycats.csproj.AssemblyReference.cache
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\obj\Debug\mycats.csproj.CoreCompileInputs.cache
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\obj\Debug\mycats.csproj.CopyComplete
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\obj\Debug\mycats.dll
+C:\Users\Alfarizi\Documents\Test Cladtex\mycats\mycats\obj\Debug\mycats.pdb

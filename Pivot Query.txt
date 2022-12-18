@@ -1,0 +1,66 @@
+//Pivot Table query
+SELECT * FROM (
+  SELECT
+    [id],
+    [Type],
+	[Gender],
+    [Number_of_cats]
+  FROM numberofcats
+) Results
+PIVOT (
+  SUM([Number_of_cats])
+  FOR [Type]
+  IN (
+    [Persian],
+    [Angora],
+	[Sphynx],
+	[Mainecoon]
+  )
+) AS PivotTable
+
+
+SELECT * FROM (
+  SELECT
+    [id],
+    [Type],
+	[Food],
+    [Amount]
+  FROM amountofFoods
+) Results
+PIVOT (	
+  SUM([Amount])
+  FOR [Type]
+  IN (
+    [Persian],
+    [Angora],
+	[Sphynx],
+	[Mainecoon]
+  )
+) AS PivotTable
+
+var catlist = dc.listofcats.ToList();
+            return View(catlist);
+
+var det_catlist = dc.listofcats.Where(cat => cat.id == id).FirstOrDefault();
+            return View(det_catlist);
+
+dc.listofcats.Add(cats);
+            dc.SaveChanges();
+            ViewBag.Message = "Succsess!";
+            return View();
+
+var edit_catlist = dc.listofcats.Where(cat => cat.id == id).FirstOrDefault();
+            return View(edit_catlist);
+
+var edit_catlist = dc.listofcats.Where(cat => cat.id == cats.id).FirstOrDefault();
+            if (edit_catlist != null)
+            {
+                edit_catlist.id = cats.id;
+                edit_catlist.Name = cats.Name;
+                edit_catlist.Gender = cats.Gender;
+                edit_catlist.Type = cats.Type;
+                edit_catlist.Colour = cats.Colour;
+                edit_catlist.Food = cats.Food;
+                dc.SaveChanges();
+            }
+            return RedirectToAction("index");
